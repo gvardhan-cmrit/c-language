@@ -1,5 +1,5 @@
+//simple table printer
 #include <stdio.h>
-
 void printTable(int n, int l);
 
 int main()
